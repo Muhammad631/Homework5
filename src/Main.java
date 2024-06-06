@@ -11,7 +11,7 @@ public class Main {
         l.stop();
 
         System.out.println("----------------------------");
-
+        System.out.println("----------------------------");
         Lexus lex = new Lexus();
         lex.stop();
         lex.start();
